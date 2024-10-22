@@ -1,27 +1,27 @@
 ### Creamos la rama primera y verificamos
-![1](/Ejercicio%203/imagenes%20ejercicio%203/1.png)
+![1](img3/1.png)
 
 ### Creamos la rama primera y verificamos
-![2](/Ejercicio%203/imagenes%20ejercicio%203/2.png)
+![2](img3/2.png)
 
 No se ha producido conflicto ya que no hemos creado el archivo em main y son distintas ramas 
 
 ### Borramos la rama primera
-![3](/Ejercicio%203/imagenes%20ejercicio%203/3.png)
+![3](img3/3.png)
 
 ### Hacaemos los pasos para producir el conflicto
-![4](/Ejercicio%203/imagenes%20ejercicio%203/4.png)
+![4](img3/4.png)
 
-![5](/Ejercicio%203/imagenes%20ejercicio%203/5.png)
+![5](img3/5.png)
 
 ### Genereamos el conflicto
-![6](/Ejercicio%203/imagenes%20ejercicio%203/6.png)
+![6](img3/6.png)
 
 ### El archivo con el conflicto
-![8](/Ejercicio%203/imagenes%20ejercicio%203/8.png)
+![8](img3/8.png)
 
 ### Solucuionamos el conflicto
-![7](/Ejercicio%203/imagenes%20ejercicio%203/7.png)
+![7](img3/7.png)
 
 ### Lo subimos al repositorio de GitHub
-![9](/Ejercicio%203/imagenes%20ejercicio%203/9.png)
+![9](img3/9.png)
